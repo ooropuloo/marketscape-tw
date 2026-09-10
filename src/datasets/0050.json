@@ -1,0 +1,433 @@
+{
+  "id": "0050",
+  "name": "元大台灣卓越50基金",
+  "asOf": "2026-09-08",
+  "retrievedAt": "2026-09-09T04:18:01.481Z",
+  "source": "https://www.yuantaetfs.com/product/detail/0050/ratio",
+  "classificationSource": "https://openapi.twse.com.tw/v1/opendata/t187ap03_L",
+  "classificationDate": "1150908",
+  "weightUnit": "percent-of-fund-NAV",
+  "stockWeightTotal": 99.74,
+  "stockAssetValue": 2416483696586,
+  "fundNAV": 2422736986958,
+  "futures": [
+    {
+      "code": "TX",
+      "ym": "202609",
+      "name": "臺股期貨",
+      "ename": "TAIEX FUTURE",
+      "weights": 0.23,
+      "qty": 588
+    },
+    {
+      "code": "NYF",
+      "ym": "202609",
+      "name": "台灣50ETF股票期貨",
+      "ename": "Taiwan 50 ETF SSF",
+      "weights": 0.03,
+      "qty": 738
+    }
+  ],
+  "holdings": [
+    {
+      "id": "2330",
+      "name": "台積電",
+      "weight": 57.18,
+      "quantity": 560899758,
+      "industryCode": "24",
+      "industryName": "半導體業"
+    },
+    {
+      "id": "2454",
+      "name": "聯發科",
+      "weight": 6.57,
+      "quantity": 33792190,
+      "industryCode": "24",
+      "industryName": "半導體業"
+    },
+    {
+      "id": "2308",
+      "name": "台達電",
+      "weight": 3.3,
+      "quantity": 44332854,
+      "industryCode": "28",
+      "industryName": "電子零組件業"
+    },
+    {
+      "id": "2317",
+      "name": "鴻海",
+      "weight": 2.91,
+      "quantity": 280375136,
+      "industryCode": "31",
+      "industryName": "其他電子業"
+    },
+    {
+      "id": "3711",
+      "name": "日月光投控",
+      "weight": 1.94,
+      "quantity": 76182934,
+      "industryCode": "24",
+      "industryName": "半導體業"
+    },
+    {
+      "id": "2303",
+      "name": "聯電",
+      "weight": 1.51,
+      "quantity": 267749756,
+      "industryCode": "24",
+      "industryName": "半導體業"
+    },
+    {
+      "id": "2383",
+      "name": "台光電",
+      "weight": 1.47,
+      "quantity": 6672486,
+      "industryCode": "28",
+      "industryName": "電子零組件業"
+    },
+    {
+      "id": "3037",
+      "name": "欣興",
+      "weight": 1.19,
+      "quantity": 30286810,
+      "industryCode": "28",
+      "industryName": "電子零組件業"
+    },
+    {
+      "id": "2881",
+      "name": "富邦金",
+      "weight": 1.18,
+      "quantity": 191635655,
+      "industryCode": "17",
+      "industryName": "金融保險"
+    },
+    {
+      "id": "2891",
+      "name": "中信金",
+      "weight": 1.14,
+      "quantity": 406512760,
+      "industryCode": "17",
+      "industryName": "金融保險"
+    },
+    {
+      "id": "1303",
+      "name": "南亞",
+      "weight": 1.1,
+      "quantity": 113156490,
+      "industryCode": "03",
+      "industryName": "塑膠工業"
+    },
+    {
+      "id": "2882",
+      "name": "國泰金",
+      "weight": 1.03,
+      "quantity": 219110219,
+      "industryCode": "17",
+      "industryName": "金融保險"
+    },
+    {
+      "id": "3017",
+      "name": "奇鋐",
+      "weight": 1,
+      "quantity": 7347191,
+      "industryCode": "25",
+      "industryName": "電腦及週邊設備業"
+    },
+    {
+      "id": "2887",
+      "name": "台新新光金",
+      "weight": 0.95,
+      "quantity": 538130976,
+      "industryCode": "17",
+      "industryName": "金融保險"
+    },
+    {
+      "id": "2345",
+      "name": "智邦",
+      "weight": 0.92,
+      "quantity": 11376058,
+      "industryCode": "27",
+      "industryName": "通信網路業"
+    },
+    {
+      "id": "2327",
+      "name": "國巨*",
+      "weight": 0.85,
+      "quantity": 36151210,
+      "industryCode": "28",
+      "industryName": "電子零組件業"
+    },
+    {
+      "id": "2382",
+      "name": "廣達",
+      "weight": 0.82,
+      "quantity": 60730628,
+      "industryCode": "25",
+      "industryName": "電腦及週邊設備業"
+    },
+    {
+      "id": "2360",
+      "name": "致茂",
+      "weight": 0.79,
+      "quantity": 8464764,
+      "industryCode": "31",
+      "industryName": "其他電子業"
+    },
+    {
+      "id": "2885",
+      "name": "元大金",
+      "weight": 0.77,
+      "quantity": 263582156,
+      "industryCode": "17",
+      "industryName": "金融保險"
+    },
+    {
+      "id": "2884",
+      "name": "玉山金",
+      "weight": 0.69,
+      "quantity": 367497947,
+      "industryCode": "17",
+      "industryName": "金融保險"
+    },
+    {
+      "id": "6669",
+      "name": "緯穎",
+      "weight": 0.69,
+      "quantity": 7118766,
+      "industryCode": "25",
+      "industryName": "電腦及週邊設備業"
+    },
+    {
+      "id": "2059",
+      "name": "川湖",
+      "weight": 0.65,
+      "quantity": 1266352,
+      "industryCode": "28",
+      "industryName": "電子零組件業"
+    },
+    {
+      "id": "2357",
+      "name": "華碩",
+      "weight": 0.62,
+      "quantity": 15509321,
+      "industryCode": "25",
+      "industryName": "電腦及週邊設備業"
+    },
+    {
+      "id": "3008",
+      "name": "大立光",
+      "weight": 0.58,
+      "quantity": 2160049,
+      "industryCode": "26",
+      "industryName": "光電業"
+    },
+    {
+      "id": "2408",
+      "name": "南亞科",
+      "weight": 0.57,
+      "quantity": 26223584,
+      "industryCode": "24",
+      "industryName": "半導體業"
+    },
+    {
+      "id": "2886",
+      "name": "兆豐金",
+      "weight": 0.57,
+      "quantity": 271728686,
+      "industryCode": "17",
+      "industryName": "金融保險"
+    },
+    {
+      "id": "2883",
+      "name": "凱基金",
+      "weight": 0.56,
+      "quantity": 361864762,
+      "industryCode": "17",
+      "industryName": "金融保險"
+    },
+    {
+      "id": "2344",
+      "name": "華邦電",
+      "weight": 0.55,
+      "quantity": 71052072,
+      "industryCode": "24",
+      "industryName": "半導體業"
+    },
+    {
+      "id": "2301",
+      "name": "光寶科",
+      "weight": 0.54,
+      "quantity": 44952407,
+      "industryCode": "25",
+      "industryName": "電腦及週邊設備業"
+    },
+    {
+      "id": "2890",
+      "name": "永豐金",
+      "weight": 0.54,
+      "quantity": 301003890,
+      "industryCode": "17",
+      "industryName": "金融保險"
+    },
+    {
+      "id": "3231",
+      "name": "緯創",
+      "weight": 0.53,
+      "quantity": 69380406,
+      "industryCode": "25",
+      "industryName": "電腦及週邊設備業"
+    },
+    {
+      "id": "2412",
+      "name": "中華電",
+      "weight": 0.5,
+      "quantity": 87701596,
+      "industryCode": "27",
+      "industryName": "通信網路業"
+    },
+    {
+      "id": "3653",
+      "name": "健策",
+      "weight": 0.46,
+      "quantity": 1998990,
+      "industryCode": "28",
+      "industryName": "電子零組件業"
+    },
+    {
+      "id": "3443",
+      "name": "創意",
+      "weight": 0.45,
+      "quantity": 1842571,
+      "industryCode": "24",
+      "industryName": "半導體業"
+    },
+    {
+      "id": "2880",
+      "name": "華南金",
+      "weight": 0.4,
+      "quantity": 213603636,
+      "industryCode": "17",
+      "industryName": "金融保險"
+    },
+    {
+      "id": "2892",
+      "name": "第一金",
+      "weight": 0.4,
+      "quantity": 257654021,
+      "industryCode": "17",
+      "industryName": "金融保險"
+    },
+    {
+      "id": "7769",
+      "name": "鴻勁",
+      "weight": 0.38,
+      "quantity": 1309749,
+      "industryCode": "24",
+      "industryName": "半導體業"
+    },
+    {
+      "id": "4958",
+      "name": "臻鼎-KY",
+      "weight": 0.37,
+      "quantity": 17514764,
+      "industryCode": "28",
+      "industryName": "電子零組件業"
+    },
+    {
+      "id": "1216",
+      "name": "統一",
+      "weight": 0.36,
+      "quantity": 113722628,
+      "industryCode": "02",
+      "industryName": "食品工業"
+    },
+    {
+      "id": "2368",
+      "name": "金像電",
+      "weight": 0.35,
+      "quantity": 7895433,
+      "industryCode": "28",
+      "industryName": "電子零組件業"
+    },
+    {
+      "id": "3665",
+      "name": "貿聯-KY",
+      "weight": 0.33,
+      "quantity": 4108483,
+      "industryCode": "31",
+      "industryName": "其他電子業"
+    },
+    {
+      "id": "3661",
+      "name": "世芯-KY",
+      "weight": 0.3,
+      "quantity": 1816997,
+      "industryCode": "24",
+      "industryName": "半導體業"
+    },
+    {
+      "id": "2395",
+      "name": "研華",
+      "weight": 0.29,
+      "quantity": 10612492,
+      "industryCode": "25",
+      "industryName": "電腦及週邊設備業"
+    },
+    {
+      "id": "2449",
+      "name": "京元電子",
+      "weight": 0.29,
+      "quantity": 26249025,
+      "industryCode": "24",
+      "industryName": "半導體業"
+    },
+    {
+      "id": "5880",
+      "name": "合庫金",
+      "weight": 0.27,
+      "quantity": 247508928,
+      "industryCode": "17",
+      "industryName": "金融保險"
+    },
+    {
+      "id": "2603",
+      "name": "長榮",
+      "weight": 0.24,
+      "quantity": 25134067,
+      "industryCode": "15",
+      "industryName": "航運業"
+    },
+    {
+      "id": "8046",
+      "name": "南電",
+      "weight": 0.21,
+      "quantity": 4923741,
+      "industryCode": "28",
+      "industryName": "電子零組件業"
+    },
+    {
+      "id": "4904",
+      "name": "遠傳",
+      "weight": 0.18,
+      "quantity": 40817389,
+      "industryCode": "27",
+      "industryName": "通信網路業"
+    },
+    {
+      "id": "3045",
+      "name": "台灣大",
+      "weight": 0.16,
+      "quantity": 32595261,
+      "industryCode": "27",
+      "industryName": "通信網路業"
+    },
+    {
+      "id": "6505",
+      "name": "台塑化",
+      "weight": 0.09,
+      "quantity": 26616666,
+      "industryCode": "23",
+      "industryName": "油電燃氣"
+    }
+  ]
+}
